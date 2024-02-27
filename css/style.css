@@ -11,6 +11,8 @@
     width: min(100% - 1rem, 1200px);
     margin-inline: auto;
     margin-top: 2rem;
+}
+.container-vh{
     height: 100vh;
 }
 .container-2{
